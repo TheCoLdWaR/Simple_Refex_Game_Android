@@ -1,0 +1,10 @@
+<resources>
+
+
+    <string name="app_name">reflexgame</string>
+    <string name="_0">Score : 0</string>
+    <string name="_0_30">0:30</string>
+    <string name="textview3">#673AB7</string>
+
+
+</resources>
